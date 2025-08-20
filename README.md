@@ -21,3 +21,14 @@ A Python simulation of a **cyclotron particle accelerator**, where a charged par
 
 **Trajectory (x vs y):**  
 Spiral growth due to acceleration inside the cyclotron.  
+
+
+
+---
+
+## 🧑‍🔬 Physics Background
+- The particle is confined by a **magnetic field** `B` perpendicular to its velocity.  
+- Acceleration occurs in the **gap region** with an oscillating **electric field** `E`.  
+- Each time the particle crosses the gap, it gains a “kick” of energy.  
+- The motion is governed by the **Lorentz force equation**:  
+
