@@ -20,7 +20,7 @@ def lorentz(t,y):
         w = (q / m) * float(np.linalg.norm(B))
 
 
-    if -0.0025<x<0.0025 and -0.04<y_pos<0.04:
+    if -0.001<x<0.001 and -0.04<y_pos<0.04:
         E = np.array([((10**6) * np.sign(np.sin(t * w))), 0, 0])
     else:
         E=np.array([0,0,0])
