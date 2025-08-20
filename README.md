@@ -2,7 +2,7 @@
 
 A Python simulation of a **cyclotron particle accelerator**, where a charged particle spirals outward under the influence of alternating electric fields and a perpendicular magnetic field.  
 
-![Cyclotron Spiral](C:\Users\supar\OneDrive\Pictures\Screenshots\Screenshot 2025-08-21 011811.png)  
+![Cyclotron Spiral](https://cdn.britannica.com/68/3368-050-1EEDBBAC/particles-cyclotron-Plan-view-middle-dees-magnetic.jpg)  
 *Particle trajectory inside the cyclotron*  
 
 ---
