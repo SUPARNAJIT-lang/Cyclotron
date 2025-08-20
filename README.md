@@ -32,3 +32,18 @@ Spiral growth due to acceleration inside the cyclotron.
 - Each time the particle crosses the gap, it gains a “kick” of energy.  
 - The motion is governed by the **Lorentz force equation**:  
 
+
+
+
+---
+
+## 📜 Requirements
+- Python 3.x  
+- NumPy  
+- SciPy  
+- Matplotlib  
+
+Install dependencies with:  
+```bash
+pip install numpy scipy matplotlib
+
