@@ -54,5 +54,7 @@ k=0.5*m*((sol1.y[2]**2)+(sol1.y[3]**2))
 
 
 plt.plot(t_eval,k)
+plt.xlabel('Time (t)'); plt.ylabel('Kinetic Energy (J)')
+plt.title('Kinetic Energy vs Time')
 plt.grid(True)
 plt.show()
