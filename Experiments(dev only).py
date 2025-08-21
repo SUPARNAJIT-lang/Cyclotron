@@ -32,7 +32,7 @@ def lorentz(t,y):
 print("Your simulation is running")
 y0=[0,0,0,0]
 
-t_sp=(0,10**-6)
+t_sp=(0,10**-5.5)
 t_eval=np.linspace(t_sp[0],t_sp[1],20000)
 
 sol1=solve_ivp(lorentz,t_sp,y0,t_eval=t_eval,max_step=(10**-10))
